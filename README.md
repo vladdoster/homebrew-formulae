@@ -10,3 +10,9 @@ Install [Vimari](https://github.com/televator-apps/vimari) via Homebrew because 
 ```bash
 brew install --cask vladdoster/formulae/vimari 
 ```
+
+## FAQ
+
+### Why a tap?
+
+Explanation in my [PR](https://github.com/Homebrew/homebrew-cask/pull/133606) (it was declined) in homebrew-cask.
