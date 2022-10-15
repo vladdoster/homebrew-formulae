@@ -3,8 +3,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/televator-apps/vimari)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/televator-apps/vimari?include_prereleases&label=pre%20release)
 
-
-Install Vimari via Homebrew because it was removed from the Apple App store.
+Install [Vimari](https://github.com/televator-apps/vimari) via Homebrew because it was removed from the Apple App store.
 
 ## Usage
 
