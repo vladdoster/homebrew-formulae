@@ -12,7 +12,5 @@ cask "vimari" do
     strategy :github_latest
   end
 
-  depends_on macos: ">= :mojave"
-
   app "Vimari.app"
 end
